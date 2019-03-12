@@ -23,10 +23,10 @@
 		<!-- Location meta tags -->
 		<meta name="geo.region" content="" />
 		<meta name="geo.placename" content="" />
-		<meta name="geo.position" content="-" />
+		<meta name="geo.position" content="" />
 		<meta name="ICBM" content="" />
 
-		<!-- General focial meta tags -->
+		<!-- General social meta tags -->
 		<meta name="description" content="">
 		<meta name="keywords" content="" />
 
